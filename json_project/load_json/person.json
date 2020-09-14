@@ -1,0 +1,35 @@
+[
+    {
+        "name" : "ajay singh",
+        "age" : "23",
+        "height" : "172",
+        "gender" : "male",
+        "hair_color" : "black"
+
+     },
+     {
+        "name" : "madhuri",
+        "age" : "23",
+        "height" : "157",
+        "gender" : "female",
+        "hair_color" : "golden"
+     },
+     {
+        "name" : "rahul",
+        "age" : "27",
+        "height" : "162",
+        "gender" : "male",
+        "hair_color" : "black"
+     },
+     {
+        "name" : "jyoti",
+        "age" : "24",
+        "height" : "152",
+        "gender" : "female",
+        "hair_color" : "brown"
+     }
+
+
+
+
+]
